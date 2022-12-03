@@ -7,7 +7,7 @@
 - Javascript
 
 ## Live Demo
-- Check the live version [here](https://alexmedinasf.github.io/to-do-rpoject/dist/)
+- Check the live version [here](https://alexmedinasf.github.io/To-Do-List-Project/dist/)
 
 ### Prerequisites
 
